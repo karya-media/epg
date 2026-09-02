@@ -3,3 +3,7 @@
 # Contoh:
 # https://example.com/epg.xml
 # https://example.com/epg.xml.gz
+
+https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
+https://beetv.my.id/epg.php
+https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
