@@ -1,5 +1,0 @@
-# Satu URL EPG per baris.
-# Baris kosong dan baris yang diawali # akan diabaikan.
-# Contoh:
-# https://example.com/epg.xml
-# https://example.com/epg.xml.gz
