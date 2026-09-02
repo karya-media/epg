@@ -1,7 +1,7 @@
 EPG MERGE REPORT
-Generated: 2026-09-02 13:13:49 UTC
+Generated: 2026-09-02 21:02:09 UTC
 
-[FAIL] URL   https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz :: HTTPError: HTTP Error 404: Not Found
+[FAIL] URL   https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz :: ValueError: source exceeds 80 MB
 [OK]   URL   https://beetv.my.id/epg.php
 [OK]   URL   https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
@@ -9,6 +9,6 @@ Sources successful : 2
 Sources failed    : 1
 Input channels    : 120
 Output channels   : 99
-Input programmes  : 94289
-Output programmes : 94289
+Input programmes  : 99320
+Output programmes : 99320
 Output file       : docs/epg.xml
