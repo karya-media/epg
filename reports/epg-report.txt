@@ -1,5 +1,5 @@
 EPG MERGE REPORT
-Generated: 2026-09-21 04:53:26 UTC
+Generated: 2026-09-21 12:45:33 UTC
 
 [FAIL] URL   https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz :: ValueError: source exceeds 80 MB
 [OK]   URL   https://beetv.my.id/epg.php
