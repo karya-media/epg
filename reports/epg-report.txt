@@ -1,5 +1,5 @@
 EPG MERGE REPORT
-Generated: 2026-10-01 05:49:50 UTC
+Generated: 2026-10-01 13:10:48 UTC
 
 [FAIL] URL   https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz :: ValueError: source exceeds 80 MB
 [FAIL] URL   https://beetv.my.id/epg.php :: TimeoutError: The read operation timed out
