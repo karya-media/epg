@@ -1,14 +1,14 @@
 EPG MERGE REPORT
-Generated: 2026-10-03 11:37:27 UTC
+Generated: 2026-10-03 16:16:07 UTC
 
 [FAIL] URL   https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz :: ValueError: source exceeds 80 MB
-[OK]   URL   https://beetv.my.id/epg.php
+[FAIL] URL   https://beetv.my.id/epg.php :: TimeoutError: The read operation timed out
 [OK]   URL   https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
-Sources successful : 2
-Sources failed    : 1
-Input channels    : 120
-Output channels   : 99
-Input programmes  : 17670
-Output programmes : 17670
+Sources successful : 1
+Sources failed    : 2
+Input channels    : 92
+Output channels   : 92
+Input programmes  : 16991
+Output programmes : 16991
 Output file       : docs/epg.xml
