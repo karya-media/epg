@@ -31629,106 +31629,6 @@
   <programme start="20261030234000 +0700" stop="20261031003000 +0700" channel="MDTV.id">
     <title lang="id">Customs Protection</title>
   </programme>
-  <programme start="20261017000500 +0700" stop="20261017013000 +0700" channel="MetroTV.id">
-    <title lang="id">Primetime News</title>
-    <desc lang="id">Primetime News</desc>
-  </programme>
-  <programme start="20261017013000 +0700" stop="20261017030500 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Hari Ini</title>
-    <desc lang="id">Metro Hari Ini</desc>
-  </programme>
-  <programme start="20261017030500 +0700" stop="20261017040500 +0700" channel="MetroTV.id">
-    <title lang="id">Q &amp; A</title>
-    <desc lang="id">Q &amp; A</desc>
-  </programme>
-  <programme start="20261017040500 +0700" stop="20261017043000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Xinwen</title>
-    <desc lang="id">Metro Xinwen</desc>
-  </programme>
-  <programme start="20261017043000 +0700" stop="20261017050500 +0700" channel="MetroTV.id">
-    <title lang="id">Prioritas Indonesia</title>
-    <desc lang="id">Prioritas Indonesia</desc>
-  </programme>
-  <programme start="20261017050500 +0700" stop="20261017060500 +0700" channel="MetroTV.id">
-    <title lang="id">Top News</title>
-    <desc lang="id">Top News</desc>
-  </programme>
-  <programme start="20261017060500 +0700" stop="20261017063000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Sport</title>
-    <desc lang="id">Metro Sport</desc>
-  </programme>
-  <programme start="20261017063000 +0700" stop="20261017070500 +0700" channel="MetroTV.id">
-    <title lang="id">Euromaxx</title>
-    <desc lang="id">Euromaxx</desc>
-  </programme>
-  <programme start="20261017070500 +0700" stop="20261017073000 +0700" channel="MetroTV.id">
-    <title lang="id">Her</title>
-    <desc lang="id">Her</desc>
-  </programme>
-  <programme start="20261017073000 +0700" stop="20261017093000 +0700" channel="MetroTV.id">
-    <title lang="id">Selamat Pagi Indonesia</title>
-    <desc lang="id">Selamat Pagi Indonesia</desc>
-  </programme>
-  <programme start="20261017093000 +0700" stop="20261017100500 +0700" channel="MetroTV.id">
-    <title lang="id">Sehat No Debat</title>
-    <desc lang="id">Sehat No Debat</desc>
-  </programme>
-  <programme start="20261017100500 +0700" stop="20261017103000 +0700" channel="MetroTV.id">
-    <title lang="id">Melihat Indonesia</title>
-    <desc lang="id">Melihat Indonesia</desc>
-  </programme>
-  <programme start="20261017103000 +0700" stop="20261017110500 +0700" channel="MetroTV.id">
-    <title lang="id">Journey</title>
-    <desc lang="id">Journey</desc>
-  </programme>
-  <programme start="20261017110500 +0700" stop="20261017130000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Siang</title>
-    <desc lang="id">Metro Siang</desc>
-  </programme>
-  <programme start="20261017130000 +0700" stop="20261017140500 +0700" channel="MetroTV.id">
-    <title lang="id">Gaspoll</title>
-    <desc lang="id">Gaspoll</desc>
-  </programme>
-  <programme start="20261017140500 +0700" stop="20261017153000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Siang</title>
-    <desc lang="id">Metro Siang</desc>
-  </programme>
-  <programme start="20261017153000 +0700" stop="20261017160500 +0700" channel="MetroTV.id">
-    <title lang="id">The Legend</title>
-    <desc lang="id">The Legend</desc>
-  </programme>
-  <programme start="20261017160500 +0700" stop="20261017173000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Hari Ini</title>
-    <desc lang="id">Metro Hari Ini</desc>
-  </programme>
-  <programme start="20261017173000 +0700" stop="20261017190500 +0700" channel="MetroTV.id">
-    <title lang="id">Primetime News</title>
-    <desc lang="id">Primetime News</desc>
-  </programme>
-  <programme start="20261017190500 +0700" stop="20261017193000 +0700" channel="MetroTV.id">
-    <title lang="id">Go Healthy</title>
-    <desc lang="id">Go Healthy</desc>
-  </programme>
-  <programme start="20261017193000 +0700" stop="20261017200500 +0700" channel="MetroTV.id">
-    <title lang="id">Realitas</title>
-    <desc lang="id">Realitas</desc>
-  </programme>
-  <programme start="20261017200500 +0700" stop="20261017220500 +0700" channel="MetroTV.id">
-    <title lang="id">Top News</title>
-    <desc lang="id">Top News</desc>
-  </programme>
-  <programme start="20261017220500 +0700" stop="20261017223000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Sport</title>
-    <desc lang="id">Metro Sport</desc>
-  </programme>
-  <programme start="20261017223000 +0700" stop="20261017230500 +0700" channel="MetroTV.id">
-    <title lang="id">Go Healthy</title>
-    <desc lang="id">Go Healthy</desc>
-  </programme>
-  <programme start="20261017230500 +0700" stop="20261018000500 +0700" channel="MetroTV.id">
-    <title lang="id">Meet Nite Live</title>
-    <desc lang="id">Meet Nite Live</desc>
-  </programme>
   <programme start="20261018000500 +0700" stop="20261018013000 +0700" channel="MetroTV.id">
     <title lang="id">Primetime News</title>
     <desc lang="id">Primetime News</desc>
@@ -33731,6 +33631,10 @@
   <programme start="20261030000500 +0700" stop="20261030003000 +0700" channel="MetroTV.id">
     <title lang="id">Primetime News</title>
   </programme>
+  <programme start="20261030000500 +0700" stop="20261030013000 +0700" channel="MetroTV.id">
+    <title lang="id">Primetime News</title>
+    <desc lang="id">Primetime News</desc>
+  </programme>
   <programme start="20261030003000 +0700" stop="20261030010000 +0700" channel="MetroTV.id">
     <title lang="id">Primetime News</title>
   </programme>
@@ -33745,6 +33649,10 @@
   </programme>
   <programme start="20261030013000 +0700" stop="20261030020000 +0700" channel="MetroTV.id">
     <title lang="id">Metro Hari Ini</title>
+  </programme>
+  <programme start="20261030013000 +0700" stop="20261030030500 +0700" channel="MetroTV.id">
+    <title lang="id">Metro Hari Ini</title>
+    <desc lang="id">Metro Hari Ini</desc>
   </programme>
   <programme start="20261030020000 +0700" stop="20261030020500 +0700" channel="MetroTV.id">
     <title lang="id">Headline News</title>
@@ -33761,6 +33669,10 @@
   <programme start="20261030030500 +0700" stop="20261030033000 +0700" channel="MetroTV.id">
     <title lang="id">Kick Andy</title>
   </programme>
+  <programme start="20261030030500 +0700" stop="20261030040500 +0700" channel="MetroTV.id">
+    <title lang="id">Kick Andy</title>
+    <desc lang="id">Kick Andy</desc>
+  </programme>
   <programme start="20261030033000 +0700" stop="20261030040000 +0700" channel="MetroTV.id">
     <title lang="id">Kick Andy</title>
   </programme>
@@ -33769,9 +33681,17 @@
   </programme>
   <programme start="20261030040500 +0700" stop="20261030043000 +0700" channel="MetroTV.id">
     <title lang="id">Metro Xinwen</title>
+    <desc lang="id">Metro Xinwen</desc>
+  </programme>
+  <programme start="20261030040500 +0700" stop="20261030043000 +0700" channel="MetroTV.id">
+    <title lang="id">Metro Xinwen</title>
   </programme>
   <programme start="20261030043000 +0700" stop="20261030050000 +0700" channel="MetroTV.id">
     <title lang="id">Prioritas Indonesia</title>
+  </programme>
+  <programme start="20261030043000 +0700" stop="20261030050500 +0700" channel="MetroTV.id">
+    <title lang="id">Prioritas Indonesia</title>
+    <desc lang="id">Prioritas Indonesia</desc>
   </programme>
   <programme start="20261030050000 +0700" stop="20261030050500 +0700" channel="MetroTV.id">
     <title lang="id">Headline News</title>
@@ -33779,23 +33699,43 @@
   <programme start="20261030050500 +0700" stop="20261030053000 +0700" channel="MetroTV.id">
     <title lang="id">Top News</title>
   </programme>
+  <programme start="20261030050500 +0700" stop="20261030060500 +0700" channel="MetroTV.id">
+    <title lang="id">Top News</title>
+    <desc lang="id">Top News</desc>
+  </programme>
   <programme start="20261030053000 +0700" stop="20261030060000 +0700" channel="MetroTV.id">
     <title lang="id">Top News</title>
   </programme>
   <programme start="20261030060000 +0700" stop="20261030063000 +0700" channel="MetroTV.id">
     <title lang="id">Metro Sport</title>
   </programme>
+  <programme start="20261030060500 +0700" stop="20261030063000 +0700" channel="MetroTV.id">
+    <title lang="id">Metro Sport</title>
+    <desc lang="id">Metro Sport</desc>
+  </programme>
   <programme start="20261030063000 +0700" stop="20261030070000 +0700" channel="MetroTV.id">
     <title lang="id">Go Healthy</title>
+  </programme>
+  <programme start="20261030063000 +0700" stop="20261030070500 +0700" channel="MetroTV.id">
+    <title lang="id">Go Healthy</title>
+    <desc lang="id">Go Healthy</desc>
   </programme>
   <programme start="20261030070000 +0700" stop="20261030070500 +0700" channel="MetroTV.id">
     <title lang="id">Headline News</title>
   </programme>
   <programme start="20261030070500 +0700" stop="20261030073000 +0700" channel="MetroTV.id">
     <title lang="id">Editorial Media Indonesia</title>
+    <desc lang="id">Editorial Media Indonesia</desc>
+  </programme>
+  <programme start="20261030070500 +0700" stop="20261030073000 +0700" channel="MetroTV.id">
+    <title lang="id">Editorial Media Indonesia</title>
   </programme>
   <programme start="20261030073000 +0700" stop="20261030080000 +0700" channel="MetroTV.id">
     <title lang="id">Selamat Pagi Indonesia</title>
+  </programme>
+  <programme start="20261030073000 +0700" stop="20261030093000 +0700" channel="MetroTV.id">
+    <title lang="id">Selamat Pagi Indonesia</title>
+    <desc lang="id">Selamat Pagi Indonesia</desc>
   </programme>
   <programme start="20261030080000 +0700" stop="20261030080500 +0700" channel="MetroTV.id">
     <title lang="id">Headline News</title>
@@ -33815,6 +33755,10 @@
   <programme start="20261030093000 +0700" stop="20261030100000 +0700" channel="MetroTV.id">
     <title lang="id">Zona Bisnis</title>
   </programme>
+  <programme start="20261030093000 +0700" stop="20261030103000 +0700" channel="MetroTV.id">
+    <title lang="id">Zona Bisnis</title>
+    <desc lang="id">Zona Bisnis</desc>
+  </programme>
   <programme start="20261030100000 +0700" stop="20261030100500 +0700" channel="MetroTV.id">
     <title lang="id">Headline News</title>
   </programme>
@@ -33824,11 +33768,19 @@
   <programme start="20261030103000 +0700" stop="20261030110000 +0700" channel="MetroTV.id">
     <title lang="id">Sehat No Debat</title>
   </programme>
+  <programme start="20261030103000 +0700" stop="20261030110500 +0700" channel="MetroTV.id">
+    <title lang="id">Sehat No Debat</title>
+    <desc lang="id">Sehat No Debat</desc>
+  </programme>
   <programme start="20261030110000 +0700" stop="20261030110500 +0700" channel="MetroTV.id">
     <title lang="id">Headline News</title>
   </programme>
   <programme start="20261030110500 +0700" stop="20261030113000 +0700" channel="MetroTV.id">
     <title lang="id">Metro Siang</title>
+  </programme>
+  <programme start="20261030110500 +0700" stop="20261030130000 +0700" channel="MetroTV.id">
+    <title lang="id">Metro Siang</title>
+    <desc lang="id">Metro Siang</desc>
   </programme>
   <programme start="20261030113000 +0700" stop="20261030120000 +0700" channel="MetroTV.id">
     <title lang="id">Metro Siang</title>
@@ -33842,6 +33794,10 @@
   <programme start="20261030130000 +0700" stop="20261030130500 +0700" channel="MetroTV.id">
     <title lang="id">Headline News</title>
   </programme>
+  <programme start="20261030130000 +0700" stop="20261030140500 +0700" channel="MetroTV.id">
+    <title lang="id">Kontroversi</title>
+    <desc lang="id">Kontroversi</desc>
+  </programme>
   <programme start="20261030130500 +0700" stop="20261030133000 +0700" channel="MetroTV.id">
     <title lang="id">Kontroversi</title>
   </programme>
@@ -33853,6 +33809,10 @@
   </programme>
   <programme start="20261030140500 +0700" stop="20261030143000 +0700" channel="MetroTV.id">
     <title lang="id">Metro Siang</title>
+  </programme>
+  <programme start="20261030140500 +0700" stop="20261030153000 +0700" channel="MetroTV.id">
+    <title lang="id">Metro Siang</title>
+    <desc lang="id">Metro Siang</desc>
   </programme>
   <programme start="20261030143000 +0700" stop="20261030150000 +0700" channel="MetroTV.id">
     <title lang="id">Metro Siang</title>
@@ -33866,14 +33826,50 @@
   <programme start="20261030153000 +0700" stop="20261030160000 +0700" channel="MetroTV.id">
     <title lang="id">Prioritas Indonesia</title>
   </programme>
+  <programme start="20261030153000 +0700" stop="20261030160500 +0700" channel="MetroTV.id">
+    <title lang="id">Prioritas Indonesia</title>
+    <desc lang="id">Prioritas Indonesia</desc>
+  </programme>
   <programme start="20261030160000 +0700" stop="20261030160500 +0700" channel="MetroTV.id">
     <title lang="id">Headline News</title>
   </programme>
   <programme start="20261030160500 +0700" stop="20261030163000 +0700" channel="MetroTV.id">
     <title lang="id">Metro Hari Ini</title>
   </programme>
+  <programme start="20261030160500 +0700" stop="20261030173000 +0700" channel="MetroTV.id">
+    <title lang="id">Metro Hari Ini</title>
+    <desc lang="id">Metro Hari Ini</desc>
+  </programme>
   <programme start="20261030163000 +0700" stop="20261030170000 +0700" channel="MetroTV.id">
     <title lang="id">Metro Hari Ini</title>
+  </programme>
+  <programme start="20261030173000 +0700" stop="20261030193000 +0700" channel="MetroTV.id">
+    <title lang="id">Primetime News</title>
+    <desc lang="id">Primetime News</desc>
+  </programme>
+  <programme start="20261030193000 +0700" stop="20261030200500 +0700" channel="MetroTV.id">
+    <title lang="id">Melawan Lupa - Kemenbud -</title>
+    <desc lang="id">Melawan Lupa - Kemenbud -</desc>
+  </programme>
+  <programme start="20261030200500 +0700" stop="20261030210500 +0700" channel="MetroTV.id">
+    <title lang="id">Top News</title>
+    <desc lang="id">Top News</desc>
+  </programme>
+  <programme start="20261030210500 +0700" stop="20261030220500 +0700" channel="MetroTV.id">
+    <title lang="id">Meet Nite Live</title>
+    <desc lang="id">Meet Nite Live</desc>
+  </programme>
+  <programme start="20261030220500 +0700" stop="20261030223000 +0700" channel="MetroTV.id">
+    <title lang="id">Metro Xinwen</title>
+    <desc lang="id">Metro Xinwen</desc>
+  </programme>
+  <programme start="20261030223000 +0700" stop="20261030230500 +0700" channel="MetroTV.id">
+    <title lang="id">Metro Sport</title>
+    <desc lang="id">Metro Sport</desc>
+  </programme>
+  <programme start="20261030230500 +0700" stop="20261031000500 +0700" channel="MetroTV.id">
+    <title lang="id">Primetime News</title>
+    <desc lang="id">Primetime News</desc>
   </programme>
   <programme start="20261024000000 +0700" stop="20261024020000 +0700" channel="MNCTV.id">
     <title lang="id">Suparman Reborn</title>
@@ -34195,70 +34191,6 @@
   </programme>
   <programme start="20261030230000 +0700" stop="20261031000000 +0700" channel="MNCTV.id">
     <title lang="id">Arab Maklum</title>
-  </programme>
-  <programme start="20261017002200 +0700" stop="20261017020200 +0700" channel="MOJI.id">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
-  </programme>
-  <programme start="20261017020200 +0700" stop="20261017032200 +0700" channel="MOJI.id">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
-  </programme>
-  <programme start="20261017032200 +0700" stop="20261017050000 +0700" channel="MOJI.id">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
-  </programme>
-  <programme start="20261017050000 +0700" stop="20261017061500 +0700" channel="MOJI.id">
-    <title lang="id">Moji Sport</title>
-    <desc lang="id">Moji Sport</desc>
-  </programme>
-  <programme start="20261017061500 +0700" stop="20261017070000 +0700" channel="MOJI.id">
-    <title lang="id">Liputan 6 Pagi Moji</title>
-    <desc lang="id">Liputan 6 Pagi Moji</desc>
-  </programme>
-  <programme start="20261017070000 +0700" stop="20261017080000 +0700" channel="MOJI.id">
-    <title lang="id">Bisik Pagi</title>
-    <desc lang="id">Bisik Pagi</desc>
-  </programme>
-  <programme start="20261017080000 +0700" stop="20261017083000 +0700" channel="MOJI.id">
-    <title lang="id">Galeri Rasa</title>
-    <desc lang="id">Galeri Rasa</desc>
-  </programme>
-  <programme start="20261017083000 +0700" stop="20261017091500 +0700" channel="MOJI.id">
-    <title lang="id">Haikyu</title>
-    <desc lang="id">Haikyu</desc>
-  </programme>
-  <programme start="20261017091500 +0700" stop="20261017104300 +0700" channel="MOJI.id">
-    <title lang="id">Ungkap</title>
-    <desc lang="id">Ungkap</desc>
-  </programme>
-  <programme start="20261017104300 +0700" stop="20261017123000 +0700" channel="MOJI.id">
-    <title lang="id">Tercyduk</title>
-    <desc lang="id">Tercyduk</desc>
-  </programme>
-  <programme start="20261017123000 +0700" stop="20261017142700 +0700" channel="MOJI.id">
-    <title lang="id">Putri: UIN SATU vs UIBU - Semifinal - Liga Voli Mahasiswa</title>
-    <desc lang="id">Putri: UIN SATU vs UIBU - Semifinal - Liga Voli Mahasiswa</desc>
-  </programme>
-  <programme start="20261017142700 +0700" stop="20261017162600 +0700" channel="MOJI.id">
-    <title lang="id">Putra: STKIP vs UM - Semifinal - Liga Voli Mahasiswa</title>
-    <desc lang="id">Putra: STKIP vs UM - Semifinal - Liga Voli Mahasiswa</desc>
-  </programme>
-  <programme start="20261017162600 +0700" stop="20261017184400 +0700" channel="MOJI.id">
-    <title lang="id">Putri: UNESA vs UPI - Semifinal - Liga Voli Mahasiswa</title>
-    <desc lang="id">Putri: UNESA vs UPI - Semifinal - Liga Voli Mahasiswa</desc>
-  </programme>
-  <programme start="20261017184400 +0700" stop="20261017203300 +0700" channel="MOJI.id">
-    <title lang="id">Putra: UNESA vs UNP - Semifinal - Liga Voli Mahasiswa</title>
-    <desc lang="id">Putra: UNESA vs UNP - Semifinal - Liga Voli Mahasiswa</desc>
-  </programme>
-  <programme start="20261017203300 +0700" stop="20261017222800 +0700" channel="MOJI.id">
-    <title lang="id">RB Salzburg vs AC Milan : UEFA Europa League 2026/27</title>
-    <desc lang="id">RB Salzburg vs AC Milan : UEFA Europa League 2026/27</desc>
-  </programme>
-  <programme start="20261017222800 +0700" stop="20261018001200 +0700" channel="MOJI.id">
-    <title lang="id">ONE Friday Fights</title>
-    <desc lang="id">ONE Friday Fights</desc>
   </programme>
   <programme start="20261018001200 +0700" stop="20261018013600 +0700" channel="MOJI.id">
     <title lang="id">VNL 2026</title>
@@ -34632,21 +34564,25 @@
     <title lang="id">AVC Men'S Nation Cup</title>
     <desc lang="id">AVC Men'S Nation Cup</desc>
   </programme>
-  <programme start="20261024210000 +0700" stop="20261024230000 +0700" channel="MOJI.id">
+  <programme start="20261024210000 +0700" stop="20261024225600 +0700" channel="MOJI.id">
     <title lang="id">UEFA Champions League</title>
     <desc lang="id">UEFA Champions League</desc>
   </programme>
-  <programme start="20261024230000 +0700" stop="20261025003000 +0700" channel="MOJI.id">
+  <programme start="20261024225600 +0700" stop="20261025003000 +0700" channel="MOJI.id">
     <title lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</title>
     <desc lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</desc>
   </programme>
-  <programme start="20261025011000 +0700" stop="20261025025600 +0700" channel="MOJI.id">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
+  <programme start="20261025003000 +0700" stop="20261025020000 +0700" channel="MOJI.id">
+    <title lang="id">RERUN AVC MEN'S CONTINENTAL 2026</title>
+    <desc lang="id">RERUN AVC MEN'S CONTINENTAL 2026</desc>
   </programme>
-  <programme start="20261025025600 +0700" stop="20261025050000 +0700" channel="MOJI.id">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
+  <programme start="20261025020000 +0700" stop="20261025030000 +0700" channel="MOJI.id">
+    <title lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</title>
+    <desc lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</desc>
+  </programme>
+  <programme start="20261025030000 +0700" stop="20261025050000 +0700" channel="MOJI.id">
+    <title lang="id">RERUN AVC MEN'S CONTINENTAL 2026</title>
+    <desc lang="id">RERUN AVC MEN'S CONTINENTAL 2026</desc>
   </programme>
   <programme start="20261025050000 +0700" stop="20261025061500 +0700" channel="MOJI.id">
     <title lang="id">Moji Sport</title>
@@ -34656,7 +34592,11 @@
     <title lang="id">Liputan 6 Pagi Moji</title>
     <desc lang="id">Liputan 6 Pagi Moji</desc>
   </programme>
-  <programme start="20261025070000 +0700" stop="20261025080000 +0700" channel="MOJI.id">
+  <programme start="20261025070000 +0700" stop="20261025073000 +0700" channel="MOJI.id">
+    <title lang="id">BISNIS UPDATE</title>
+    <desc lang="id">BISNIS UPDATE</desc>
+  </programme>
+  <programme start="20261025073000 +0700" stop="20261025080000 +0700" channel="MOJI.id">
     <title lang="id">Bisik Pagi</title>
     <desc lang="id">Bisik Pagi</desc>
   </programme>
@@ -34664,23 +34604,23 @@
     <title lang="id">Ungkap</title>
     <desc lang="id">Ungkap</desc>
   </programme>
-  <programme start="20261025090000 +0700" stop="20261025104100 +0700" channel="MOJI.id">
+  <programme start="20261025090000 +0700" stop="20261025110000 +0700" channel="MOJI.id">
     <title lang="id">Ungkap</title>
     <desc lang="id">Ungkap</desc>
   </programme>
-  <programme start="20261025104100 +0700" stop="20261025130000 +0700" channel="MOJI.id">
+  <programme start="20261025110000 +0700" stop="20261025130000 +0700" channel="MOJI.id">
     <title lang="id">Tercyduk</title>
     <desc lang="id">Tercyduk</desc>
   </programme>
-  <programme start="20261025130000 +0700" stop="20261025164200 +0700" channel="MOJI.id">
+  <programme start="20261025130000 +0700" stop="20261025170000 +0700" channel="MOJI.id">
     <title lang="id">Tercyduk</title>
     <desc lang="id">Tercyduk</desc>
   </programme>
-  <programme start="20261025164200 +0700" stop="20261025182500 +0700" channel="MOJI.id">
-    <title lang="id">SEA V Cup 2026</title>
-    <desc lang="id">SEA V Cup 2026</desc>
+  <programme start="20261025170000 +0700" stop="20261025190000 +0700" channel="MOJI.id">
+    <title lang="id">RERUN INTERNATIONAL FRIENDLY MATCH</title>
+    <desc lang="id">RERUN INTERNATIONAL FRIENDLY MATCH</desc>
   </programme>
-  <programme start="20261025182500 +0700" stop="20261025203000 +0700" channel="MOJI.id">
+  <programme start="20261025190000 +0700" stop="20261025203000 +0700" channel="MOJI.id">
     <title lang="id">AVC Men'S Nation Cup</title>
     <desc lang="id">AVC Men'S Nation Cup</desc>
   </programme>
@@ -34688,9 +34628,9 @@
     <title lang="id">Premier League (LIVE) - Cystal Palace vs Newcastle United</title>
     <desc lang="id">Premier League (LIVE) - Cystal Palace vs Newcastle United</desc>
   </programme>
-  <programme start="20261025230000 +0700" stop="20261026010500 +0700" channel="MOJI.id">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
+  <programme start="20261025230000 +0700" stop="20261026003000 +0700" channel="MOJI.id">
+    <title lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</title>
+    <desc lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</desc>
   </programme>
   <programme start="20261026010500 +0700" stop="20261026025600 +0700" channel="MOJI.id">
     <title lang="id">VNL 2026</title>
@@ -43103,102 +43043,6 @@
   <programme start="20261030231500 +0700" stop="20261031000000 +0700" channel="ROCKEntertainment.id">
     <title lang="id">Chicago Med S11, Ep 8</title>
   </programme>
-  <programme start="20261017000000 +0700" stop="20261017010000 +0700" channel="RTV.id">
-    <title lang="id">Kokom (Kompilasi Komedi)</title>
-    <desc lang="id">Kokom (Kompilasi Komedi)</desc>
-  </programme>
-  <programme start="20261017010000 +0700" stop="20261017013000 +0700" channel="RTV.id">
-    <title lang="id">Terang Kasih</title>
-    <desc lang="id">Terang Kasih</desc>
-  </programme>
-  <programme start="20261017013000 +0700" stop="20261017030000 +0700" channel="RTV.id">
-    <title lang="id">Movinesia</title>
-    <desc lang="id">Movinesia</desc>
-  </programme>
-  <programme start="20261017030000 +0700" stop="20261017033000 +0700" channel="RTV.id">
-    <title lang="id">Ustadz On The Road</title>
-    <desc lang="id">Ustadz On The Road</desc>
-  </programme>
-  <programme start="20261017033000 +0700" stop="20261017050000 +0700" channel="RTV.id">
-    <title lang="id">Super Wings</title>
-    <desc lang="id">Super Wings</desc>
-  </programme>
-  <programme start="20261017050000 +0700" stop="20261017063000 +0700" channel="RTV.id">
-    <title lang="id">Bread Barbershop</title>
-    <desc lang="id">Bread Barbershop</desc>
-  </programme>
-  <programme start="20261017063000 +0700" stop="20261017070000 +0700" channel="RTV.id">
-    <title lang="id">Hunter X Hunter</title>
-    <desc lang="id">Hunter X Hunter</desc>
-  </programme>
-  <programme start="20261017070000 +0700" stop="20261017073000 +0700" channel="RTV.id">
-    <title lang="id">Beyblade X S3</title>
-    <desc lang="id">Beyblade X S3</desc>
-  </programme>
-  <programme start="20261017073000 +0700" stop="20261017080000 +0700" channel="RTV.id">
-    <title lang="id">Ultraman Teo</title>
-    <desc lang="id">Ultraman Teo</desc>
-  </programme>
-  <programme start="20261017080000 +0700" stop="20261017083000 +0700" channel="RTV.id">
-    <title lang="id">Adu Kelas</title>
-    <desc lang="id">Adu Kelas</desc>
-  </programme>
-  <programme start="20261017083000 +0700" stop="20261017090000 +0700" channel="RTV.id">
-    <title lang="id">Mtlb Goo!</title>
-    <desc lang="id">Mtlb Goo!</desc>
-  </programme>
-  <programme start="20261017090000 +0700" stop="20261017103000 +0700" channel="RTV.id">
-    <title lang="id">Smurfs</title>
-    <desc lang="id">Smurfs</desc>
-  </programme>
-  <programme start="20261017103000 +0700" stop="20261017110000 +0700" channel="RTV.id">
-    <title lang="id">Abrakadabra</title>
-    <desc lang="id">Abrakadabra</desc>
-  </programme>
-  <programme start="20261017110000 +0700" stop="20261017123000 +0700" channel="RTV.id">
-    <title lang="id">Bread Barbershop</title>
-    <desc lang="id">Bread Barbershop</desc>
-  </programme>
-  <programme start="20261017123000 +0700" stop="20261017143000 +0700" channel="RTV.id">
-    <title lang="id">Super Wings</title>
-    <desc lang="id">Super Wings</desc>
-  </programme>
-  <programme start="20261017143000 +0700" stop="20261017160000 +0700" channel="RTV.id">
-    <title lang="id">Metal Cardbot</title>
-    <desc lang="id">Metal Cardbot</desc>
-  </programme>
-  <programme start="20261017160000 +0700" stop="20261017173000 +0700" channel="RTV.id">
-    <title lang="id">Boboiboy Galaxy</title>
-    <desc lang="id">Boboiboy Galaxy</desc>
-  </programme>
-  <programme start="20261017173000 +0700" stop="20261017183000 +0700" channel="RTV.id">
-    <title lang="id">Bread Barbershop</title>
-    <desc lang="id">Bread Barbershop</desc>
-  </programme>
-  <programme start="20261017183000 +0700" stop="20261017193000 +0700" channel="RTV.id">
-    <title lang="id">Adit Sopo Jarwo</title>
-    <desc lang="id">Adit Sopo Jarwo</desc>
-  </programme>
-  <programme start="20261017193000 +0700" stop="20261017213000 +0700" channel="RTV.id">
-    <title lang="id">Ejen Ali</title>
-    <desc lang="id">Ejen Ali</desc>
-  </programme>
-  <programme start="20261017213000 +0700" stop="20261017220000 +0700" channel="RTV.id">
-    <title lang="id">Boba (Bombastis Banget)</title>
-    <desc lang="id">Boba (Bombastis Banget)</desc>
-  </programme>
-  <programme start="20261017220000 +0700" stop="20261017223000 +0700" channel="RTV.id">
-    <title lang="id">Check In (Check Informasi)</title>
-    <desc lang="id">Check In (Check Informasi)</desc>
-  </programme>
-  <programme start="20261017223000 +0700" stop="20261017230000 +0700" channel="RTV.id">
-    <title lang="id">Obral (Obrolan Viral)</title>
-    <desc lang="id">Obral (Obrolan Viral)</desc>
-  </programme>
-  <programme start="20261017230000 +0700" stop="20261018000000 +0700" channel="RTV.id">
-    <title lang="id">Besti (Best Informasi)</title>
-    <desc lang="id">Besti (Best Informasi)</desc>
-  </programme>
   <programme start="20261018000000 +0700" stop="20261018010000 +0700" channel="RTV.id">
     <title lang="id">Kokom (Kompilasi Komedi)</title>
     <desc lang="id">Kokom (Kompilasi Komedi)</desc>
@@ -44232,6 +44076,86 @@
     <desc lang="id">Lensa Indonesia Malam</desc>
   </programme>
   <programme start="20261029230000 +0700" stop="20261030000000 +0700" channel="RTV.id">
+    <title lang="id">Canda Empire</title>
+    <desc lang="id">Canda Empire</desc>
+  </programme>
+  <programme start="20261030000000 +0700" stop="20261030003000 +0700" channel="RTV.id">
+    <title lang="id">Ijin, Ndan !</title>
+    <desc lang="id">Ijin, Ndan !</desc>
+  </programme>
+  <programme start="20261030003000 +0700" stop="20261030010000 +0700" channel="RTV.id">
+    <title lang="id">Kokom (Kompilasi Komedi)</title>
+    <desc lang="id">Kokom (Kompilasi Komedi)</desc>
+  </programme>
+  <programme start="20261030010000 +0700" stop="20261030013000 +0700" channel="RTV.id">
+    <title lang="id">Terang Kasih</title>
+    <desc lang="id">Terang Kasih</desc>
+  </programme>
+  <programme start="20261030013000 +0700" stop="20261030030000 +0700" channel="RTV.id">
+    <title lang="id">Movinesia</title>
+    <desc lang="id">Movinesia</desc>
+  </programme>
+  <programme start="20261030030000 +0700" stop="20261030033000 +0700" channel="RTV.id">
+    <title lang="id">Ustadz On The Road</title>
+    <desc lang="id">Ustadz On The Road</desc>
+  </programme>
+  <programme start="20261030033000 +0700" stop="20261030050000 +0700" channel="RTV.id">
+    <title lang="id">Super Wings</title>
+    <desc lang="id">Super Wings</desc>
+  </programme>
+  <programme start="20261030050000 +0700" stop="20261030093000 +0700" channel="RTV.id">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread Barbershop</desc>
+  </programme>
+  <programme start="20261030093000 +0700" stop="20261030100000 +0700" channel="RTV.id">
+    <title lang="id">Will Sliney'S Storytellers</title>
+    <desc lang="id">Will Sliney'S Storytellers</desc>
+  </programme>
+  <programme start="20261030100000 +0700" stop="20261030114500 +0700" channel="RTV.id">
+    <title lang="id">Adit Sopo Jarwo</title>
+    <desc lang="id">Adit Sopo Jarwo</desc>
+  </programme>
+  <programme start="20261030114500 +0700" stop="20261030124500 +0700" channel="RTV.id">
+    <title lang="id">Blox Buster</title>
+    <desc lang="id">Blox Buster</desc>
+  </programme>
+  <programme start="20261030124500 +0700" stop="20261030131500 +0700" channel="RTV.id">
+    <title lang="id">On Fire</title>
+    <desc lang="id">On Fire</desc>
+  </programme>
+  <programme start="20261030131500 +0700" stop="20261030153000 +0700" channel="RTV.id">
+    <title lang="id">Super Wings</title>
+    <desc lang="id">Super Wings</desc>
+  </programme>
+  <programme start="20261030153000 +0700" stop="20261030170000 +0700" channel="RTV.id">
+    <title lang="id">Tom &amp; Jerry</title>
+    <desc lang="id">Tom &amp; Jerry</desc>
+  </programme>
+  <programme start="20261030170000 +0700" stop="20261030183000 +0700" channel="RTV.id">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread Barbershop</desc>
+  </programme>
+  <programme start="20261030183000 +0700" stop="20261030200000 +0700" channel="RTV.id">
+    <title lang="id">Adit Sopo Jarwo</title>
+    <desc lang="id">Adit Sopo Jarwo</desc>
+  </programme>
+  <programme start="20261030200000 +0700" stop="20261030213000 +0700" channel="RTV.id">
+    <title lang="id">Ejen Ali</title>
+    <desc lang="id">Ejen Ali</desc>
+  </programme>
+  <programme start="20261030213000 +0700" stop="20261030220000 +0700" channel="RTV.id">
+    <title lang="id">On Fire</title>
+    <desc lang="id">On Fire</desc>
+  </programme>
+  <programme start="20261030220000 +0700" stop="20261030223000 +0700" channel="RTV.id">
+    <title lang="id">D'Hangout</title>
+    <desc lang="id">D'Hangout</desc>
+  </programme>
+  <programme start="20261030223000 +0700" stop="20261030230000 +0700" channel="RTV.id">
+    <title lang="id">Lensa Indonesia Malam</title>
+    <desc lang="id">Lensa Indonesia Malam</desc>
+  </programme>
+  <programme start="20261030230000 +0700" stop="20261031000000 +0700" channel="RTV.id">
     <title lang="id">Canda Empire</title>
     <desc lang="id">Canda Empire</desc>
   </programme>
