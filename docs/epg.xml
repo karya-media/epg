@@ -31641,102 +31641,6 @@
   <programme start="20261105235000 +0700" stop="20261106004000 +0700" channel="MDTV.id">
     <title lang="id">MDTV</title>
   </programme>
-  <programme start="20261023000500 +0700" stop="20261023013000 +0700" channel="MetroTV.id">
-    <title lang="id">Primetime News</title>
-    <desc lang="id">Primetime News</desc>
-  </programme>
-  <programme start="20261023013000 +0700" stop="20261023030500 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Hari Ini</title>
-    <desc lang="id">Metro Hari Ini</desc>
-  </programme>
-  <programme start="20261023030500 +0700" stop="20261023040500 +0700" channel="MetroTV.id">
-    <title lang="id">Kick Andy</title>
-    <desc lang="id">Kick Andy</desc>
-  </programme>
-  <programme start="20261023040500 +0700" stop="20261023043000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Xinwen</title>
-    <desc lang="id">Metro Xinwen</desc>
-  </programme>
-  <programme start="20261023043000 +0700" stop="20261023050500 +0700" channel="MetroTV.id">
-    <title lang="id">Prioritas Indonesia</title>
-    <desc lang="id">Prioritas Indonesia</desc>
-  </programme>
-  <programme start="20261023050500 +0700" stop="20261023060500 +0700" channel="MetroTV.id">
-    <title lang="id">Top News</title>
-    <desc lang="id">Top News</desc>
-  </programme>
-  <programme start="20261023060500 +0700" stop="20261023063000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Sport</title>
-    <desc lang="id">Metro Sport</desc>
-  </programme>
-  <programme start="20261023063000 +0700" stop="20261023070500 +0700" channel="MetroTV.id">
-    <title lang="id">Go Healthy</title>
-    <desc lang="id">Go Healthy</desc>
-  </programme>
-  <programme start="20261023070500 +0700" stop="20261023073000 +0700" channel="MetroTV.id">
-    <title lang="id">Editorial Media Indonesia</title>
-    <desc lang="id">Editorial Media Indonesia</desc>
-  </programme>
-  <programme start="20261023073000 +0700" stop="20261023093000 +0700" channel="MetroTV.id">
-    <title lang="id">Selamat Pagi Indonesia</title>
-    <desc lang="id">Selamat Pagi Indonesia</desc>
-  </programme>
-  <programme start="20261023093000 +0700" stop="20261023103000 +0700" channel="MetroTV.id">
-    <title lang="id">Zona Bisnis</title>
-    <desc lang="id">Zona Bisnis</desc>
-  </programme>
-  <programme start="20261023103000 +0700" stop="20261023110500 +0700" channel="MetroTV.id">
-    <title lang="id">Sehat No Debat</title>
-    <desc lang="id">Sehat No Debat</desc>
-  </programme>
-  <programme start="20261023110500 +0700" stop="20261023130000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Siang</title>
-    <desc lang="id">Metro Siang</desc>
-  </programme>
-  <programme start="20261023130000 +0700" stop="20261023140500 +0700" channel="MetroTV.id">
-    <title lang="id">Kontroversi</title>
-    <desc lang="id">Kontroversi</desc>
-  </programme>
-  <programme start="20261023140500 +0700" stop="20261023153000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Siang</title>
-    <desc lang="id">Metro Siang</desc>
-  </programme>
-  <programme start="20261023153000 +0700" stop="20261023160500 +0700" channel="MetroTV.id">
-    <title lang="id">Prioritas Indonesia</title>
-    <desc lang="id">Prioritas Indonesia</desc>
-  </programme>
-  <programme start="20261023160500 +0700" stop="20261023173000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Hari Ini</title>
-    <desc lang="id">Metro Hari Ini</desc>
-  </programme>
-  <programme start="20261023173000 +0700" stop="20261023193000 +0700" channel="MetroTV.id">
-    <title lang="id">Primetime News</title>
-    <desc lang="id">Primetime News</desc>
-  </programme>
-  <programme start="20261023193000 +0700" stop="20261023200500 +0700" channel="MetroTV.id">
-    <title lang="id">Melawan Lupa - Kemenbud -</title>
-    <desc lang="id">Melawan Lupa - Kemenbud -</desc>
-  </programme>
-  <programme start="20261023200500 +0700" stop="20261023210500 +0700" channel="MetroTV.id">
-    <title lang="id">Top News</title>
-    <desc lang="id">Top News</desc>
-  </programme>
-  <programme start="20261023210500 +0700" stop="20261023220500 +0700" channel="MetroTV.id">
-    <title lang="id">Meet Nite Live</title>
-    <desc lang="id">Meet Nite Live</desc>
-  </programme>
-  <programme start="20261023220500 +0700" stop="20261023223000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Xinwen</title>
-    <desc lang="id">Metro Xinwen</desc>
-  </programme>
-  <programme start="20261023223000 +0700" stop="20261023230500 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Sport</title>
-    <desc lang="id">Metro Sport</desc>
-  </programme>
-  <programme start="20261023230500 +0700" stop="20261024000500 +0700" channel="MetroTV.id">
-    <title lang="id">Primetime News</title>
-    <desc lang="id">Primetime News</desc>
-  </programme>
   <programme start="20261024000500 +0700" stop="20261024010500 +0700" channel="MetroTV.id">
     <title lang="id">Primetime News</title>
     <desc lang="id">Primetime News</desc>
@@ -33955,58 +33859,6 @@
   <programme start="20261105230000 +0700" stop="20261106020000 +0700" channel="MNCTV.id">
     <title lang="id">Suparman Reborn</title>
   </programme>
-  <programme start="20261023010600 +0700" stop="20261023025600 +0700" channel="MOJI.id">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
-  </programme>
-  <programme start="20261023025600 +0700" stop="20261023050000 +0700" channel="MOJI.id">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
-  </programme>
-  <programme start="20261023050000 +0700" stop="20261023061500 +0700" channel="MOJI.id">
-    <title lang="id">Moji Sport</title>
-    <desc lang="id">Moji Sport</desc>
-  </programme>
-  <programme start="20261023061500 +0700" stop="20261023070000 +0700" channel="MOJI.id">
-    <title lang="id">Liputan 6 Pagi Moji</title>
-    <desc lang="id">Liputan 6 Pagi Moji</desc>
-  </programme>
-  <programme start="20261023070000 +0700" stop="20261023080000 +0700" channel="MOJI.id">
-    <title lang="id">Bisik Pagi</title>
-    <desc lang="id">Bisik Pagi</desc>
-  </programme>
-  <programme start="20261023080000 +0700" stop="20261023090000 +0700" channel="MOJI.id">
-    <title lang="id">Ungkap</title>
-    <desc lang="id">Ungkap</desc>
-  </programme>
-  <programme start="20261023090000 +0700" stop="20261023104400 +0700" channel="MOJI.id">
-    <title lang="id">Ungkap</title>
-    <desc lang="id">Ungkap</desc>
-  </programme>
-  <programme start="20261023110000 +0700" stop="20261023130000 +0700" channel="MOJI.id">
-    <title lang="id">Tercyduk</title>
-    <desc lang="id">Tercyduk</desc>
-  </programme>
-  <programme start="20261023130000 +0700" stop="20261023170000 +0700" channel="MOJI.id">
-    <title lang="id">Tercyduk</title>
-    <desc lang="id">Tercyduk</desc>
-  </programme>
-  <programme start="20261023170000 +0700" stop="20261023190000 +0700" channel="MOJI.id">
-    <title lang="id">SEA V Cup 2026</title>
-    <desc lang="id">SEA V Cup 2026</desc>
-  </programme>
-  <programme start="20261023190000 +0700" stop="20261023210000 +0700" channel="MOJI.id">
-    <title lang="id">AVC Men'S Nation Cup</title>
-    <desc lang="id">AVC Men'S Nation Cup</desc>
-  </programme>
-  <programme start="20261023210000 +0700" stop="20261023225800 +0700" channel="MOJI.id">
-    <title lang="id">Como 1907 vs Manchester United : UEFA Champions League 2026/27</title>
-    <desc lang="id">Como 1907 vs Manchester United : UEFA Champions League 2026/27</desc>
-  </programme>
-  <programme start="20261023225800 +0700" stop="20261024003000 +0700" channel="MOJI.id">
-    <title lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</title>
-    <desc lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</desc>
-  </programme>
   <programme start="20261024003000 +0700" stop="20261024020000 +0700" channel="MOJI.id">
     <title lang="id">RERUN AVC MEN'S CONTINENTAL 2026</title>
     <desc lang="id">RERUN AVC MEN'S CONTINENTAL 2026</desc>
@@ -34387,23 +34239,23 @@
     <title lang="id">Tercyduk</title>
     <desc lang="id">Tercyduk</desc>
   </programme>
-  <programme start="20261030130000 +0700" stop="20261030150000 +0700" channel="MOJI.id">
+  <programme start="20261030123000 +0700" stop="20261030143300 +0700" channel="MOJI.id">
     <title lang="id">Semifinal Putri: STIES MIKAR vs USAKTI - Liga Voli Mahasiswa</title>
     <desc lang="id">Semifinal Putri: STIES MIKAR vs USAKTI - Liga Voli Mahasiswa</desc>
   </programme>
-  <programme start="20261030150000 +0700" stop="20261030170000 +0700" channel="MOJI.id">
+  <programme start="20261030143300 +0700" stop="20261030164600 +0700" channel="MOJI.id">
     <title lang="id">Semifinal Putra: BLU vs STIES MIKAR - Liga Voli Mahasiswa</title>
     <desc lang="id">Semifinal Putra: BLU vs STIES MIKAR - Liga Voli Mahasiswa</desc>
   </programme>
-  <programme start="20261030170000 +0700" stop="20261030190000 +0700" channel="MOJI.id">
+  <programme start="20261030164600 +0700" stop="20261030190400 +0700" channel="MOJI.id">
     <title lang="id">Semifinal Putri: BLU vs UNJ - Liga Voli Mahasiswa</title>
     <desc lang="id">Semifinal Putri: BLU vs UNJ - Liga Voli Mahasiswa</desc>
   </programme>
-  <programme start="20261030190000 +0700" stop="20261030210000 +0700" channel="MOJI.id">
+  <programme start="20261030190400 +0700" stop="20261030204900 +0700" channel="MOJI.id">
     <title lang="id">Semifinal Putra: UM ID vs UNJ - Liga Voli Mahasiswa</title>
     <desc lang="id">Semifinal Putra: UM ID vs UNJ - Liga Voli Mahasiswa</desc>
   </programme>
-  <programme start="20261030210000 +0700" stop="20261030230000 +0700" channel="MOJI.id">
+  <programme start="20261030204900 +0700" stop="20261030230000 +0700" channel="MOJI.id">
     <title lang="id">United States vs China : Women's Volleyball Nations League 2026</title>
     <desc lang="id">United States vs China : Women's Volleyball Nations League 2026</desc>
   </programme>
@@ -34415,7 +34267,7 @@
     <title lang="id">Indonesia vs Iran : AVC Women's Volleyball Continental Championship 2026</title>
     <desc lang="id">Indonesia vs Iran : AVC Women's Volleyball Continental Championship 2026</desc>
   </programme>
-  <programme start="20261031034100 +0700" stop="20261031050000 +0700" channel="MOJI.id">
+  <programme start="20261031030000 +0700" stop="20261031050000 +0700" channel="MOJI.id">
     <title lang="id">Japan vs India : AVC Men's Volleyball Continental Championship 2026</title>
     <desc lang="id">Japan vs India : AVC Men's Volleyball Continental Championship 2026</desc>
   </programme>
@@ -34459,15 +34311,15 @@
     <title lang="id">Awarding Ceremony Liga Voli Mahasiswa</title>
     <desc lang="id">Awarding Ceremony Liga Voli Mahasiswa</desc>
   </programme>
-  <programme start="20261031193000 +0700" stop="20261031211700 +0700" channel="MOJI.id">
-    <title lang="id">SEA V Cup 2026</title>
-    <desc lang="id">SEA V Cup 2026</desc>
+  <programme start="20261031193000 +0700" stop="20261031210000 +0700" channel="MOJI.id">
+    <title lang="id">RERUN VNL 2026 MEN</title>
+    <desc lang="id">RERUN VNL 2026 MEN</desc>
   </programme>
-  <programme start="20261031211700 +0700" stop="20261031225700 +0700" channel="MOJI.id">
-    <title lang="id">International Friendly Match</title>
-    <desc lang="id">International Friendly Match</desc>
+  <programme start="20261031210000 +0700" stop="20261031223000 +0700" channel="MOJI.id">
+    <title lang="id">RERUN VNL 2026 MEN</title>
+    <desc lang="id">RERUN VNL 2026 MEN</desc>
   </programme>
-  <programme start="20261031225700 +0700" stop="20261101001700 +0700" channel="MOJI.id">
+  <programme start="20261031223000 +0700" stop="20261101001700 +0700" channel="MOJI.id">
     <title lang="id">ONE Friday Fights</title>
     <desc lang="id">ONE Friday Fights</desc>
   </programme>
@@ -34480,6 +34332,106 @@
     <desc lang="id">AVC Men'S Continental 2026</desc>
   </programme>
   <programme start="20261101031800 +0700" stop="20261101050000 +0700" channel="MOJI.id">
+    <title lang="id">AVC Men'S Continental 2026</title>
+    <desc lang="id">AVC Men'S Continental 2026</desc>
+  </programme>
+  <programme start="20261101050000 +0700" stop="20261101061500 +0700" channel="MOJI.id">
+    <title lang="id">Moji Sport</title>
+    <desc lang="id">Moji Sport</desc>
+  </programme>
+  <programme start="20261101061500 +0700" stop="20261101070000 +0700" channel="MOJI.id">
+    <title lang="id">Liputan 6 Pagi Moji</title>
+    <desc lang="id">Liputan 6 Pagi Moji</desc>
+  </programme>
+  <programme start="20261101070000 +0700" stop="20261101073000 +0700" channel="MOJI.id">
+    <title lang="id">Bisnis Update</title>
+    <desc lang="id">Bisnis Update</desc>
+  </programme>
+  <programme start="20261101073000 +0700" stop="20261101080000 +0700" channel="MOJI.id">
+    <title lang="id">Bisik Pagi</title>
+    <desc lang="id">Bisik Pagi</desc>
+  </programme>
+  <programme start="20261101080000 +0700" stop="20261101090000 +0700" channel="MOJI.id">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+  </programme>
+  <programme start="20261101090000 +0700" stop="20261101104700 +0700" channel="MOJI.id">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+  </programme>
+  <programme start="20261101104700 +0700" stop="20261101125800 +0700" channel="MOJI.id">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+  </programme>
+  <programme start="20261101125800 +0700" stop="20261101162000 +0700" channel="MOJI.id">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+  </programme>
+  <programme start="20261101162000 +0700" stop="20261101184900 +0700" channel="MOJI.id">
+    <title lang="id">VNL 2026</title>
+    <desc lang="id">VNL 2026</desc>
+  </programme>
+  <programme start="20261101184900 +0700" stop="20261101211400 +0700" channel="MOJI.id">
+    <title lang="id">VNL 2026</title>
+    <desc lang="id">VNL 2026</desc>
+  </programme>
+  <programme start="20261101211400 +0700" stop="20261101234100 +0700" channel="MOJI.id">
+    <title lang="id">VNL 2026</title>
+    <desc lang="id">VNL 2026</desc>
+  </programme>
+  <programme start="20261101234100 +0700" stop="20261102012000 +0700" channel="MOJI.id">
+    <title lang="id">AVC Men'S Continental 2026</title>
+    <desc lang="id">AVC Men'S Continental 2026</desc>
+  </programme>
+  <programme start="20261102012000 +0700" stop="20261102033100 +0700" channel="MOJI.id">
+    <title lang="id">AVC Women'S Continental 2026</title>
+    <desc lang="id">AVC Women'S Continental 2026</desc>
+  </programme>
+  <programme start="20261102033100 +0700" stop="20261102050000 +0700" channel="MOJI.id">
+    <title lang="id">AVC Women'S Continental 2026</title>
+    <desc lang="id">AVC Women'S Continental 2026</desc>
+  </programme>
+  <programme start="20261102050000 +0700" stop="20261102061500 +0700" channel="MOJI.id">
+    <title lang="id">Moji Sport</title>
+    <desc lang="id">Moji Sport</desc>
+  </programme>
+  <programme start="20261102061500 +0700" stop="20261102070000 +0700" channel="MOJI.id">
+    <title lang="id">Liputan 6 Pagi Moji</title>
+    <desc lang="id">Liputan 6 Pagi Moji</desc>
+  </programme>
+  <programme start="20261102070000 +0700" stop="20261102080000 +0700" channel="MOJI.id">
+    <title lang="id">Bisik Pagi</title>
+    <desc lang="id">Bisik Pagi</desc>
+  </programme>
+  <programme start="20261102080000 +0700" stop="20261102085800 +0700" channel="MOJI.id">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+  </programme>
+  <programme start="20261102085800 +0700" stop="20261102104500 +0700" channel="MOJI.id">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+  </programme>
+  <programme start="20261102104500 +0700" stop="20261102125400 +0700" channel="MOJI.id">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+  </programme>
+  <programme start="20261102125400 +0700" stop="20261102163000 +0700" channel="MOJI.id">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+  </programme>
+  <programme start="20261102163000 +0700" stop="20261102190700 +0700" channel="MOJI.id">
+    <title lang="id">VNL 2026</title>
+    <desc lang="id">VNL 2026</desc>
+  </programme>
+  <programme start="20261102190700 +0700" stop="20261102213900 +0700" channel="MOJI.id">
+    <title lang="id">VNL 2026</title>
+    <desc lang="id">VNL 2026</desc>
+  </programme>
+  <programme start="20261102213900 +0700" stop="20261103003500 +0700" channel="MOJI.id">
+    <title lang="id">VNL 2026</title>
+    <desc lang="id">VNL 2026</desc>
+  </programme>
+  <programme start="20261103003500 +0700" stop="20261103024200 +0700" channel="MOJI.id">
     <title lang="id">AVC Men'S Continental 2026</title>
     <desc lang="id">AVC Men'S Continental 2026</desc>
   </programme>
@@ -43140,90 +43092,6 @@
   </programme>
   <programme start="20261105234000 +0700" stop="20261106002500 +0700" channel="ROCKEntertainment.id">
     <title lang="id">Late Night With... S14, Ep 22</title>
-  </programme>
-  <programme start="20261023000000 +0700" stop="20261023003000 +0700" channel="RTV.id">
-    <title lang="id">Ijin, Ndan !</title>
-    <desc lang="id">Ijin, Ndan !</desc>
-  </programme>
-  <programme start="20261023003000 +0700" stop="20261023010000 +0700" channel="RTV.id">
-    <title lang="id">Kokom (Kompilasi Komedi)</title>
-    <desc lang="id">Kokom (Kompilasi Komedi)</desc>
-  </programme>
-  <programme start="20261023010000 +0700" stop="20261023013000 +0700" channel="RTV.id">
-    <title lang="id">Terang Kasih</title>
-    <desc lang="id">Terang Kasih</desc>
-  </programme>
-  <programme start="20261023013000 +0700" stop="20261023030000 +0700" channel="RTV.id">
-    <title lang="id">Movinesia</title>
-    <desc lang="id">Movinesia</desc>
-  </programme>
-  <programme start="20261023030000 +0700" stop="20261023033000 +0700" channel="RTV.id">
-    <title lang="id">Ustadz On The Road</title>
-    <desc lang="id">Ustadz On The Road</desc>
-  </programme>
-  <programme start="20261023033000 +0700" stop="20261023050000 +0700" channel="RTV.id">
-    <title lang="id">Super Wings</title>
-    <desc lang="id">Super Wings</desc>
-  </programme>
-  <programme start="20261023050000 +0700" stop="20261023093000 +0700" channel="RTV.id">
-    <title lang="id">Bread Barbershop</title>
-    <desc lang="id">Bread Barbershop</desc>
-  </programme>
-  <programme start="20261023093000 +0700" stop="20261023100000 +0700" channel="RTV.id">
-    <title lang="id">Will Sliney'S Storytellers</title>
-    <desc lang="id">Will Sliney'S Storytellers</desc>
-  </programme>
-  <programme start="20261023100000 +0700" stop="20261023114500 +0700" channel="RTV.id">
-    <title lang="id">Adit Sopo Jarwo</title>
-    <desc lang="id">Adit Sopo Jarwo</desc>
-  </programme>
-  <programme start="20261023114500 +0700" stop="20261023124500 +0700" channel="RTV.id">
-    <title lang="id">Blox Buster</title>
-    <desc lang="id">Blox Buster</desc>
-  </programme>
-  <programme start="20261023124500 +0700" stop="20261023131500 +0700" channel="RTV.id">
-    <title lang="id">On Fire</title>
-    <desc lang="id">On Fire</desc>
-  </programme>
-  <programme start="20261023131500 +0700" stop="20261023153000 +0700" channel="RTV.id">
-    <title lang="id">Grizzy And The Lemmings</title>
-    <desc lang="id">Grizzy And The Lemmings</desc>
-  </programme>
-  <programme start="20261023153000 +0700" stop="20261023163000 +0700" channel="RTV.id">
-    <title lang="id">Secret Jouju - Bijou Of Star</title>
-    <desc lang="id">Secret Jouju - Bijou Of Star</desc>
-  </programme>
-  <programme start="20261023163000 +0700" stop="20261023173000 +0700" channel="RTV.id">
-    <title lang="id">Teletubbies</title>
-    <desc lang="id">Teletubbies</desc>
-  </programme>
-  <programme start="20261023173000 +0700" stop="20261023183000 +0700" channel="RTV.id">
-    <title lang="id">Bread Barbershop</title>
-    <desc lang="id">Bread Barbershop</desc>
-  </programme>
-  <programme start="20261023183000 +0700" stop="20261023200000 +0700" channel="RTV.id">
-    <title lang="id">Adit Sopo Jarwo</title>
-    <desc lang="id">Adit Sopo Jarwo</desc>
-  </programme>
-  <programme start="20261023200000 +0700" stop="20261023213000 +0700" channel="RTV.id">
-    <title lang="id">Ejen Ali</title>
-    <desc lang="id">Ejen Ali</desc>
-  </programme>
-  <programme start="20261023213000 +0700" stop="20261023220000 +0700" channel="RTV.id">
-    <title lang="id">On Fire</title>
-    <desc lang="id">On Fire</desc>
-  </programme>
-  <programme start="20261023220000 +0700" stop="20261023223000 +0700" channel="RTV.id">
-    <title lang="id">D'Hangout</title>
-    <desc lang="id">D'Hangout</desc>
-  </programme>
-  <programme start="20261023223000 +0700" stop="20261023230000 +0700" channel="RTV.id">
-    <title lang="id">Lensa Indonesia Malam</title>
-    <desc lang="id">Lensa Indonesia Malam</desc>
-  </programme>
-  <programme start="20261023230000 +0700" stop="20261024000000 +0700" channel="RTV.id">
-    <title lang="id">Canda Empire</title>
-    <desc lang="id">Canda Empire</desc>
   </programme>
   <programme start="20261024000000 +0700" stop="20261024003000 +0700" channel="RTV.id">
     <title lang="id">Ijin, Ndan !</title>
