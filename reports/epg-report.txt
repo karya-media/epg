@@ -1,5 +1,5 @@
 EPG MERGE REPORT
-Generated: 2026-11-11 14:19:57 UTC
+Generated: 2026-11-12 00:40:25 UTC
 
 [FAIL] URL   https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz :: ValueError: source exceeds 80 MB
 [FAIL] URL   https://beetv.my.id/epg.php :: HTTPError: HTTP Error 404: Not Found
@@ -9,6 +9,6 @@ Sources successful : 1
 Sources failed    : 2
 Input channels    : 92
 Output channels   : 92
-Input programmes  : 16976
-Output programmes : 16976
+Input programmes  : 16959
+Output programmes : 16959
 Output file       : docs/epg.xml
